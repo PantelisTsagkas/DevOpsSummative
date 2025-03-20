@@ -19,7 +19,7 @@ public class NameManager {
         adjectives.add("Secret");
 
         animals = new ArrayList<>();
-        animals.add("Squirrel");
+        animals.add("Squirrrel");
 
     }
 
